@@ -1,0 +1,11 @@
+{
+    "suggest.noselect": true,
+    "languageserver": {
+        "rust": {
+            "command": "rust-analyzer",
+            "rootPatterns": ["cargo.toml", "cargo.lock"],
+            "trace.server": "verbose",
+            "filetypes": ["rs"]
+        }
+    }
+}

@@ -1,0 +1,5 @@
+require("core.keymaps")
+require("core.options")
+require("core.coc_options")
+require("config.lazy")
+require("config.lsp")
