@@ -7,5 +7,6 @@
             "trace.server": "verbose",
             "filetypes": ["rs"]
         }
-    }
+    },
+    "clangd.path": "~/.config/coc/extensions/coc-clangd-data/install/21.1.8/clangd_21.1.8/bin/clangd"
 }
